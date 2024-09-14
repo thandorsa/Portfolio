@@ -28,9 +28,9 @@ import VanillaTilt from "vanilla-tilt";
 import { motion } from "framer-motion";
 
 const aboutStats = [
-  { label: "Years of experience", value: "6+" },
-  { label: "Technologies mastered", value: "5+" },
-  { label: "Companies worked with", value: "5+" },
+  { label: "Years of experience", value: "4+" },
+  { label: "Technologies mastered", value: "3+" },
+  { label: "Companies worked with", value: "2+" },
 ];
 
 const projects = [
