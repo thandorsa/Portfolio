@@ -198,7 +198,7 @@ export default function Home() {
                 data-scroll-speed=".06"
                 className="mt-1 max-w-lg tracking-tight text-muted-foreground 2xl:text-xl"
               >
-                A Zimbabwean highschool graphic designer ,ediitor and coder.
+                A Zimbabwean highschool graphic designer ,editor and coder.
               </p>
             </div>
             <span
