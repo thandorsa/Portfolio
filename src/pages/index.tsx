@@ -233,8 +233,8 @@ export default function Home() {
           <div
             data-scroll
             data-scroll-speed="-.01"
-            id={styles["canvas-container"]}
-            className="mt-14 h-full w-full xl:mt-0"
+            id={styles["container"]}
+            className="mt-14 h-[100vh] w-[850vw] xl:mt-0"
           >
             <Suspense fallback={<span>Loading...</span>}>
               <Spline scene="/assets/scene.splinecode" />
