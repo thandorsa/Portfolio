@@ -5,8 +5,8 @@
     "orientation": "portrait",
     "scope": "/",
     "start_url": "/",
-    "name": "Thando",
-    "short_name": "Thando",
+    "name": "WendoJ",
+    "short_name": "WendoJ",
     "description": "Full-stack website developer and TypeScript enthusiast.",
     "icons": [
         {
