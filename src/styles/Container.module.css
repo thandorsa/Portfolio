@@ -44,7 +44,7 @@
 
   p{
     display: flex;
-    color: rgb(47, 0, 255);
+    color: rgb(255, 255, 255);
     font-size: 42px;
     align-items: center;
     position: absolute;
@@ -54,7 +54,7 @@
       display: block;
       width: 10px;
       height: 10px;
-      background-color: rgb(9, 49, 228);
+      background-color: rgb(255, 255, 255);
       border-radius: 50%;
       margin-right: 10px;
     }
